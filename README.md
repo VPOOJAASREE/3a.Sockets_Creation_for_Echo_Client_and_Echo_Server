@@ -10,13 +10,11 @@ Sockets Links.
  server .
 4. Send and receive the message using the send function in socket.
 ## PROGRAM:
-
 ![Screenshot 2024-03-06 193833](https://github.com/VPOOJAASREE/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/155145525/bb1195de-ad5c-4361-b8b4-610162e4c118)
 
 ![Screenshot 2024-03-06 193855](https://github.com/VPOOJAASREE/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/155145525/2c2cd722-5918-4b2a-81cb-e68c541b70ab)
 
 ## OUPUT:
-
 ![Screenshot 2024-03-06 202952](https://github.com/VPOOJAASREE/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/155145525/b1e1e83e-c68c-4eaf-b4d8-3a83b8c4ef95)
 
 ## RESULT:
